@@ -1,3 +1,11 @@
+<script setup>
+useSeoMeta({
+  title: 'Singapore Website Development for SMEs',
+  description:
+    'Base Stack builds fast, SEO-ready websites for Singapore SMEs. Web design, development, and maintenance for local businesses.'
+});
+</script>
+
 <template>
   <main class="mx-auto max-w-6xl px-4 pb-16 pt-16 md:pt-24">
     <section class="grid items-center gap-12 md:grid-cols-2">

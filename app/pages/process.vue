@@ -1,3 +1,11 @@
+<script setup>
+useSeoMeta({
+  title: 'Website Design Process for Singapore SMEs',
+  description:
+    'Our Singapore website development process: discovery, design, build, launch, and support.'
+});
+</script>
+
 <template>
   <main class="mx-auto max-w-6xl px-4 pb-16 pt-16 md:pt-24">
     <section class="max-w-2xl">

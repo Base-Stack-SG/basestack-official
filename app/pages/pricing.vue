@@ -1,3 +1,11 @@
+<script setup>
+useSeoMeta({
+  title: 'Website Packages & Pricing Singapore SMEs',
+  description:
+    'Simple website packages for Singapore SMEs. Get a tailored quote for your business goals.'
+});
+</script>
+
 <template>
   <main class="mx-auto max-w-6xl px-4 pb-16 pt-16 md:pt-24">
     <section class="max-w-2xl">
