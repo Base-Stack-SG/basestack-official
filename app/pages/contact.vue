@@ -1,11 +1,3 @@
-<script setup>
-useSeoMeta({
-  title: 'Contact Base Stack · Singapore Website Development',
-  description:
-    'Contact Base Stack to build your Singapore SME website. Fast response, clear scope, and local support.'
-});
-</script>
-
 <template>
   <main class="mx-auto max-w-6xl px-4 pb-16 pt-16 md:pt-24">
     <section class="grid gap-10 md:grid-cols-2">
@@ -94,6 +86,12 @@ useSeoMeta({
 </template>
 
 <script setup>
+useSeoMeta({
+  title: 'Contact Base Stack · Singapore Website Development',
+  description:
+    'Contact Base Stack to build your Singapore SME website. Fast response, clear scope, and local support.'
+});
+
 const form = reactive({
   name: '',
   business: '',
