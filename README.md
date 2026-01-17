@@ -4,7 +4,7 @@
 ---
 
 ### **Our Mission**
-For decades, Singapore’s contractors, renovation specialists, and trade businesses have built our city with hard work and integrity. At **Base Stack**, we ensure your business is represented online with that same level of professionalism. We bridge the gap between traditional industry expertise and the modern digital market.
+For decades, Singapore’s contractors, renovation specialists, and trade businesses have built our city with hard work and integrity. At **Base Stack**, we ensure your business is represented online with that same level of professionalism. We bridge the gap between traditional industry expertise and the modern digital market. 
 
 ### **Why Choose Base Stack?**
 * **Direct & Honest Communication:** We value your time. Our discussions are straightforward, focused on your business goals, and free of confusing technical jargon.
